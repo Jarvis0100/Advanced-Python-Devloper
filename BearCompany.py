@@ -1,0 +1,1 @@
+print("The name of beer \nis '"+ input("what is your city name?")+" "+input("what is your fav color? ")+"'\ncongrats")
